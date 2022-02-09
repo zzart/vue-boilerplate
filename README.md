@@ -1,4 +1,4 @@
-# vue-boilerplate
+# StarWarsExplorer  
 
 ## Project setup
 ```
